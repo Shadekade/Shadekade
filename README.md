@@ -8,8 +8,8 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
-#Общая статистика
+###Общая статистика
 ![Streak Stats](https://github-readme-streak-stats.herokuapp.com/?user=Shadekade&theme=dark)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Shadekade&layout=compact&theme=vision-friendly-dark)
-#Счётчик просмотров 👀
+###Счётчик просмотров 👀
 ![Views](https://komarev.com/ghpvc/?username=your-username&color=blue)
